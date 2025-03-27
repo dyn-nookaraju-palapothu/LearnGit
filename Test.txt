@@ -1,1 +1,2 @@
 This is a new file as part of Learning Git
+Added a new line
